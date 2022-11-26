@@ -1,0 +1,13 @@
+header > nav{
+  background-color: black;
+
+}
+header > nav > div > a > img{
+  height: 50px;
+  width:auto;
+}
+
+footer{
+  background-color: #fff;
+  color: #000;
+}
